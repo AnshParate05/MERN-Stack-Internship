@@ -3,10 +3,10 @@
 > A progressive journey through full-stack web development using the MERN stack
 > (MongoDB, Express.js, React, Node.js), building real-world applications across 4 tasks.
 
-**Intern:** [Your Name]  
+**Intern:** Ansh Parate  
 **Company:** [Maincrafts Technology](https://www.maincrafts.com)  
 **Contact:** hr@maincrafts.com  
-**Duration:** [Start Date] – [End Date]
+**Duration:** 20 May 2026 – 25 June 2026
 
 ---
 
